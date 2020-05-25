@@ -2052,3 +2052,4 @@ pubnative.info
 service.cmp.oath.com
 about.king.com
 cdn.pushwoosh.com
+logx.optimizely.com
