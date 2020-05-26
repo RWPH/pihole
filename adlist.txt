@@ -2058,3 +2058,4 @@ tsyndicate.com
 c2.taboola.com
 fo-api.omnitagjs.com
 secure.quantserve.com
+mail-ads.google.com
