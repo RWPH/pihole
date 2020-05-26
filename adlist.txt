@@ -1971,7 +1971,6 @@ hb.adscale.de
 yieldlove-d.openx.net
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 si.nuggad.net
-forum.golem.de
 trace.svc.ui.com
 msmetrics.ws.sonos.com
 settings.crashlytics.com
