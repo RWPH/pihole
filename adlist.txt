@@ -2059,3 +2059,5 @@ c2.taboola.com
 fo-api.omnitagjs.com
 secure.quantserve.com
 mail-ads.google.com
+s.go-mpulse.net
+amazoncustomerservice.d2.sc.omtrdc.net
