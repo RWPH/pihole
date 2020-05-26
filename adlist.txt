@@ -2067,3 +2067,6 @@ stats.toi.de
 www.mywot.com
 stats.administrator.technology
 stats.crsend.com
+rules.aatkit.com
+rules2.aatkit.com
+rules3.aatkit.com
