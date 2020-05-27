@@ -1944,7 +1944,6 @@ device-metrics-us-2.amazon.com
 static.hotjar.com
 combine.urbanairship.com
 orbidder.otto.de
-cdn.ampproject.org
 rt.applovin.com
 rt.applvn.com
 a.applvn.com
@@ -2071,3 +2070,4 @@ rules2.aatkit.com
 rules3.aatkit.com
 ad4mat.net
 intljs.rmtag.com
+ocsp.digicert.com
