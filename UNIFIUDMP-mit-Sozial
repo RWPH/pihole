@@ -2103,4 +2103,8 @@
         "analytics.bundesregierung.de",
         "api.apptentive.com",
                             "s2s.yieldlove-ad-serving.net"
-                            "crl3.digicert.com"
+                            "crl3.digicert.com",
+                                            "delivery.vidible.tv",
+                                            "get.adobe.com",
+                                            "analytics-ingress-global.bitmovin.com",
+                                            "fls-na.amazon.com"
