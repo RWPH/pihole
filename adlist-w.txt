@@ -454,6 +454,7 @@ config.amcrestcloud.com
 config.ioam.de
 config.samsungads.com
 configprd.samsungcloudsolution.net
+connect.facebook.net
 connectivitycheck.android.com
 consentmgr.q-divisioncdn.de
 console.allterco.com
@@ -683,6 +684,23 @@ dyn.emetriq.de
 e.crashlytics.com
 e.reddit.com
 e.tw.cx
+e1.whatsapp.net
+e10.whatsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
+e16.whatsapp.net
+e17.whatsapp.net
+e2.whatsapp.net
+e3.whatsapp.net
+e4.whatsapp.net
+e5.whatsapp.net
+e6.whatsapp.net
+e7.whatsapp.net
+e8.whatsapp.net
+e9.whatsapp.net
 ecg-liberty.cloud
 echo.internetat.tv
 eclick.baidu.com
@@ -725,6 +743,7 @@ exacttarget.api.mashery.com
 example.org
 ext.host-tracker.com
 external-promo-metrics.yandex.net
+facebook.com
 fairfaxmedia.sharedcount.com
 farm.plista.com
 farmer.wego.com
@@ -815,8 +834,6 @@ gld.push.samsungosp.com
 gld.samsungosp.com
 gllto.glpals.com
 gllto1.glpals.com
-global.stun.twilio.com
-global.turn.twilio.com
 gmx.oewabox.at
 go.stripchat.com
 gocp.stroeermediabrands.de
@@ -825,6 +842,7 @@ golem.vgwzaehlungen.de
 googleads.g.doubleclick.net
 gozer.rediris.es
 gpm.samsungqbe.com
+graph.facebook.com
 greetz01.wt-eu02.net
 grs.Dbankcloud.com
 grs.dbankcdn.asia
@@ -887,7 +905,6 @@ ibeat.indiatimes.com
 ibksturm.synology.me
 ibuki.cgnat.net
 icanhazip.com
-id.google.de
 ig.fp.oix.net
 image8.pubmatic.com
 images.dmca.com
@@ -899,7 +916,6 @@ in.appcenter.ms
 in.cuebiq.com
 in.treasuredata.com
 inapps.appsflyer.com
-infolink.pavv.co.kr
 informer.yandex.ru
 infos.adalizer.com
 infostroy.nnov.ru
@@ -907,6 +923,7 @@ infox.sg
 ingest.crittercism.com
 inputs-com-2-759068119.us-west-2.elb.amazonaws.com
 inputs.alooma.com
+instagram.com
 intent.cbsi.com
 intljs.rmtag.com
 invitation.samsungiotcloud.com
@@ -1247,6 +1264,7 @@ pixelg.adswizz.com
 pixelhere.com
 pixels.livingsocial.com
 pixiedust.buzzfeed.com
+platform.twitter.com
 play5156.ourtime28.live
 pn.bestcheck.de
 podcasts.provider.plex.tv
@@ -1525,6 +1543,7 @@ st.top100.ru
 stadtbremerhaven.digidip
 stadtbremerhaven.digidip.net
 stags.bluekai.com
+star-mini.c10r.facebook.com
 start.digitaltext.rtl.de
 startrekk.flaconi.de
 startup.mobile.webvisor.com
@@ -1693,6 +1712,7 @@ sync.adap.tv
 sync.mathtag.com
 sync.morgdm.ru
 synchrobox.adswizz.com
+syndication.twitter.com
 t-ak.hulu.com
 t.appsflyer.com
 t.blinkist.com
@@ -1785,7 +1805,6 @@ trac.oferting.fr
 trac.oferting.it
 trac.oferting.net
 trac.oferting.org
-trace.svc.ui.com
 tracelog.www.alibaba.com
 tracer.perezhilton.com
 track.8pigtails.com
@@ -1952,6 +1971,7 @@ tt.onthe.io
 tv-static.scdn.co
 tv-static.scdn.com
 tv.deezer.com
+twitter.com
 u.btserve.com
 u.openx.net
 u.startup.mobile.webvisor.com
@@ -2018,6 +2038,7 @@ www.assoc-amazon.de
 www.awin1.com
 www.bing.com
 www.clickcease.com
+www.facebook.com
 www.google-analytics.com
 www.google.de
 www.googleadservices.com
