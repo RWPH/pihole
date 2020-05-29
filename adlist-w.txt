@@ -195,6 +195,7 @@ ape-tagit.timeinc.net
 api-analytics.rozetka.com.ua
 api-hub.samsungyosemite.com
 api-tv.spotify.com
+api.accengage.com
 api.amplitude.com
 api.apptentive.com
 api.calq.io
@@ -960,6 +961,7 @@ l.player.ooyala.com
 l.sharethis.com
 l2.visiblemeasures.com
 l3.evidon.com
+launches.appsflyer.com
 lb.secureweb24.net
 lcprd1.samsungcloudsolution.net
 lcprd2.samsungcloudsolution.net
@@ -1124,6 +1126,7 @@ monitor.clickcease.com
 mormont.gamer-network.net
 mozilla.cloudflare-dns.com
 mpc.nicequest.com
+mqtt-mini.facebook.com
 ms.applovin.com
 ms.applvn.com
 msg.71.am
@@ -1983,6 +1986,7 @@ uir.uimserv.net
 ulogs.umeng.com
 ulogs.umengcloud.com
 um-public-panel-prod.s3.amazonaws.com
+update.studio3t.com
 ups.xplosion.de
 upu.samsungelectronics.com
 us-api.samsungyosemite.com
@@ -2081,6 +2085,3 @@ z.moatads.com
 zap.org.au
 zdlogs.sphereup.com
 zpu.samsungelectronics.com
-launches.appsflyer.com
-api.accengage.com
-mqtt-mini.facebook.com
