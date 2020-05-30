@@ -2065,7 +2065,6 @@ zap.org.au
 zdlogs.sphereup.com
 zpu.samsungelectronics.com
 containertags.belboon.de
-
 amp.casalemedia.com
 ad-ipd.sxp.smartclip.net
 static.emsservice.de
@@ -2077,3 +2076,10 @@ socialize.eu1.gigya.com
 analytics.v-gar.de
 uidbox.uimserv.net
 scdn.cxense.com
+
+profile.localytics.com
+manifest.localytics.com
+app-analytics.snapchat.com
+mediation.adnxs.com
+i.mxplayer.j2inter.com
+conversions.appsflyer.com
