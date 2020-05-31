@@ -2103,3 +2103,5 @@ app-analytics.snapchat.com
 mediation.adnxs.com
 i.mxplayer.j2inter.com
 conversions.appsflyer.com
+king-contenido-prod.secure2.footprint.net
+cdn-gl.imrworldwide.com
