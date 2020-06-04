@@ -2130,3 +2130,10 @@ status.thawte.com
 eus.rubiconproject.com
 ads.pubmatic.com
 acdn.adnxs.com
+nativesdks.mparticle.com
+config2.mparticle.com
+identity.mparticle.com
+munchkin.marketo.net
+uim.tifbs.net
+cdn.heapanalytics.com
+ping.chartbeat.net
