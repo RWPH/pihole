@@ -133,7 +133,6 @@ alb.reddit.com
 alog.umeng.co
 alog.umeng.com
 amauthprd.samsungcloudsolution.com
-amazon.de
 amazoncustomerservice.d2.sc.omtrdc.net
 amp.casalemedia.com
 ampcid.google.com
