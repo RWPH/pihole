@@ -2358,3 +2358,15 @@ zap.org.au
 zdlogs.sphereup.com
 zpu.samsungelectronics.com
 5d58487b46f4d13614595bfcf7b3a3bb.safeframe.googlesyndication.com
+0cceab852990ac782cd5655d8698186a.safeframe.googlesyndication.com
+627e027c88d76aa7ed52483f32f4ffc9.safeframe.googlesyndication.com
+ba6c98da1111196016abceeb0fe929de.safeframe.googlesyndication.com
+31db5231e3d0fc9f6104ef20a24a8b82.safeframe.googlesyndication.com
+d00370239d25434f4d09d9063abfa509.safeframe.googlesyndication.com
+465e9bc79f88ee3706422ebe4b1f11a4.safeframe.googlesyndication.com
+e40e77799128bbdf7d368caed5168bda.safeframe.googlesyndication.com
+c039b4231a896311a417a7d9c5da8e08.safeframe.googlesyndication.com
+apahb.cloud.avg.com
+del.icio.us
+digg.com
+googlesyndication.com
