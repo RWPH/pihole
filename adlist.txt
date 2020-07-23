@@ -2370,3 +2370,5 @@ apahb.cloud.avg.com
 del.icio.us
 digg.com
 googlesyndication.com
+incoming.telemetry.mozilla.org
+stats.bautzen.de
