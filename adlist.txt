@@ -1266,7 +1266,6 @@ mms.sp-prod.net
 mms.syracuse.com
 mms.theroot.com
 mobile.pipe.aria.microsoft.com
-mobile-collector.newrelic.com
 mobilenetworkscoring-pa.googleapis.com
 monitor.clickcease.com
 monitor-targeting-failures.sqrt-5041.de
