@@ -2445,3 +2445,12 @@ ressource1.netdoktor.de
 ringsrecord.com
 infolinks.com
 braze.com
+sls.update.microsoft.com
+android.bugly.qq.com
+15.taboola.com
+www.twitter.com
+analytics.map.qq.com
+iadsdk.apple.com
+ads.lfstmedia.com
+ad.audiencemanager.de
+rtb.gumgum.com

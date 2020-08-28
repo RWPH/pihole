@@ -2471,3 +2471,12 @@ star-mini.c10r.facebook.com
 syndication.twitter.com
 twitter.com
 www.facebook.com
+sls.update.microsoft.com
+android.bugly.qq.com
+15.taboola.com
+www.twitter.com
+analytics.map.qq.com
+iadsdk.apple.com
+ads.lfstmedia.com
+ad.audiencemanager.de
+rtb.gumgum.com
