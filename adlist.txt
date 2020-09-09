@@ -2454,3 +2454,5 @@ iadsdk.apple.com
 ads.lfstmedia.com
 ad.audiencemanager.de
 rtb.gumgum.com
+cdn.cookielaw.org
+cdn.jsdelivr.net
