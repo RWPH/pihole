@@ -2456,3 +2456,5 @@ ad.audiencemanager.de
 rtb.gumgum.com
 cdn.cookielaw.org
 cdn.jsdelivr.net
+cdn.privacy-mgmt.com
+cmp.tag24.de
