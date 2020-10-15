@@ -2463,3 +2463,6 @@ cmp2.bild.de
 app.usercentrics.eu
 m.tiktok.com
 dubsmash.com
+byte.com
+triller.co
+funimate.com
