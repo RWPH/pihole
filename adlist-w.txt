@@ -2488,3 +2488,8 @@ sourcepoint.n-tv.de
 cmp2.bild.de
 app.usercentrics.eu
 m.tiktok.com
+m.tiktok.com
+dubsmash.com
+byte.com
+triller.co
+funimate.com
