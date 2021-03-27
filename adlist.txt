@@ -2522,12 +2522,9 @@ funimate.com
 ||stats.computecmedia.de^
 ||telemetry.api.swiftkey.com^
 ||cdn.nativendo.de^
-||connect.facebook.net^
 ||api.amplitude.com^
 ||sdk.iad-03.braze.com^
 ||inputs.alooma.com^
-||twitter.com^
-||twitter.com^
 ||pagead2.googlesyndication.com^
 ||lib.selfcampaign.com^
 ||www.googletagmanager.com^
@@ -2578,10 +2575,8 @@ funimate.com
 ||bibo.api.swiftkey.com^
 ||ssl-n-tv.met.vgwort.de^
 ||www.sparwelt.de^
-||www.sparwelt.de^
 ||sessions.bugsnag.com^
 ||metrics.n-tv.de^
-||device-metrics-us.amazon.com^
 ||device-metrics-us.amazon.com^
 ||static.plista.com^
 ||adservice.google.com^
@@ -2589,10 +2584,7 @@ funimate.com
 ||mads.amazon-adsystem.com^
 ||licensing.bitmovin.com^
 ||sales-house-configuration.mes.glomex.cloud^
-||sales-house-configuration.mes.glomex.cloud^
-||sales-house-configuration.mes.glomex.cloud^
 ||vg07.met.vgwort.de^
-||imasdk.googleapis.com^
 ||imasdk.googleapis.com^
 ||ssl.3.damoh.golem.de^
 ||pay7.hicloud.com^
@@ -2604,7 +2596,6 @@ funimate.com
 ||app-measurement.com^
 ||mobilenetworkscoring-pa.googleapis.com^
 ||grs.hicloud.com^
-@@||mobile-collector.newrelic.com^
 @@||mobile-collector.newrelic.com^
 @@||www.asadcdn.com^
 ||www.googleadservices.com^
