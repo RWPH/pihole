@@ -32,7 +32,6 @@ analytics.api.myqnapcloud.com
 nexus.officeapps.live.com
 cinema-rrs-eu.hicloud.com
 grs.dbankcloud.asia
-dns.adguard.com
 watson.telemetry.microsoft.com
 grs.dbankcloud.eu
 mobilenetworkscoring-pa.googleapis.com
